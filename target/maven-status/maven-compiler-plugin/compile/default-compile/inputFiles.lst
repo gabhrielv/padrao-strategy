@@ -1,0 +1,7 @@
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padrao-strategy/src/main/java/padroescomportamentais/strategy/shipping/ShippingCalculator.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padrao-strategy/src/main/java/padroescomportamentais/strategy/shipping/ShippingStrategy.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padrao-strategy/src/main/java/padroescomportamentais/strategy/shipping/StandardShipping.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padrao-strategy/src/main/java/padroescomportamentais/strategy/shipping/SameDayShipping.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padrao-strategy/src/main/java/padroescomportamentais/strategy/shipping/ExpressShipping.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padrao-strategy/src/main/java/padroescomportamentais/strategy/shipping/StorePickup.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padrao-strategy/src/main/java/padroescomportamentais/strategy/shipping/Parcel.java

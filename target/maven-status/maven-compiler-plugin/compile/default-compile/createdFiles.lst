@@ -1,0 +1,7 @@
+padroescomportamentais/strategy/shipping/ExpressShipping.class
+padroescomportamentais/strategy/shipping/SameDayShipping.class
+padroescomportamentais/strategy/shipping/ShippingCalculator.class
+padroescomportamentais/strategy/shipping/StandardShipping.class
+padroescomportamentais/strategy/shipping/Parcel.class
+padroescomportamentais/strategy/shipping/ShippingStrategy.class
+padroescomportamentais/strategy/shipping/StorePickup.class
